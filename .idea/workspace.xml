@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54822dde-7695-4830-a5cd-16540b987562" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helpers/customTranslator/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helpers/databaseHelper/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/helpers/errors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/trial.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/mm.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mm.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/preliminaryAnalysis.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/startup.py" beforeDir="false" afterPath="$PROJECT_DIR$/startup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/preliminaryAnalysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/preliminaryAnalysis.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,6 +67,8 @@
       <workItem from="1661721322383" duration="29000" />
       <workItem from="1661721352521" duration="91000" />
       <workItem from="1661721445402" duration="549000" />
+      <workItem from="1661722270847" duration="14000" />
+      <workItem from="1661883418042" duration="9951000" />
     </task>
     <servers />
   </component>
